@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>
-		<TargetFramework>net6.0;net9.0;net10.0</TargetFramework>
+		<TargetFramework>net6.0</TargetFramework>
 	</TargetFramework>
     <RootNamespace>_13._3_tdd_GeometrieTests</RootNamespace>
     <Nullable>enable</Nullable>
